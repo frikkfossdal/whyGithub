@@ -7,6 +7,6 @@
 
 - Implementation log, [Vespidae Project](https://github.com/frikkfossdal/Vespidae/tree/main/developLog), [Lamp-1 Project](https://github.com/frikkfossdal/lamp-1).
 - [Show student example](https://github.com/BendickMH/Bachelor-Fres)
-- [Jake Driver](https://gitlab.cba.mit.edu/jakeread/atkbldcdriver)
+- [Jake Clank](https://gitlab.cba.mit.edu/jakeread/clank-stretch)
 - Documentation & reference library. [FabProbe](https://github.com/frikkfossdal/fabProbe)
 - Collaboration [see fabricatable machines](https://github.com/frikkfossdal/fabricatable-machines)
