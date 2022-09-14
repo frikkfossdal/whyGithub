@@ -12,3 +12,7 @@
 - [Hotplate](https://gitlab.cba.mit.edu/jakeread/clank-stretch)
 - Documentation & reference library. [FabProbe](https://github.com/frikkfossdal/fabProbe)
 - Collaboration [see fabricatable machines](https://github.com/frikkfossdal/fabricatable-machines)
+
+# Changes
+
+- I made a change
